@@ -5,8 +5,8 @@ const port = 8080; // Puoi cambiare questa porta se necessario
 // Dati fittizi dell'utente
 const user = {
   id: 1,
-  name: 'John Doe',
-  email: 'john.doe@example.com',
+  name: 'Daniele Sisto',
+  email: 'daniele.doe@example.com',
   role: 'user'
 };
 
